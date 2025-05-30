@@ -1,0 +1,3 @@
+- Encrypted Data: FQJ0uTwLYX7elYwfszJ1EULrRi6iyNHR4xaZh4clWKxcb5dPBud4EAYelk/clI71OEnAQh7pxSyou1hMdR0imK4hEx79x2hCYze3n0iq6XgmlaQDCk2aoryWYmc6I5vZ7ypbjM14IlXfNYmRpgQwra4o5Tj/48i9uQ8AoXNvZ5c=
+- Decrypted Data: 
+RentalContract{contractType='permanent', contractID='STC001', propertyID='P002', tenantID='T002', rentAmount=200.0}
